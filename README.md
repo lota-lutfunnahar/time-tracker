@@ -59,4 +59,3 @@ Additionally, the application has a SUCCESS function to alert users when an empl
 
 ---
 This was my solo final project for Harvard's [CS50](https://cs50.harvard.edu/x/2020/) (the first of two courses I took for the Computer Science for Web Programming certificate).
-# time-tracker
