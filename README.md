@@ -43,6 +43,7 @@ Time-Off Tracker is a web application which allows company managers to track pai
      to open on localhost (no login is required for the site)
 
 ## Views
+Coming soon
 
 ### Index
 The INDEX, or home page (found at "/"), shows the history of all time-off exchanges for every employee since the database was created. For example, if an employee earned 8 PTO hours for working on a holiday, or took 16 unpaid-time-off hours for a holiday, or used 8 paid-time-off hours for a sick day, each exchange will be listed in descending order on the Index table.
